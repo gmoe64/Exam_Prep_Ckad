@@ -117,3 +117,5 @@ choco install kind
   - `ahmetb/kubernetes-network-policy-recipes`
 - [Kubernetes Docs](https://kubernetes.io/docs/) (bookmark useful pages!)
 
+Work Help Desk
+https://rdweb.wvd.azure.us/arm/webclient/index.html

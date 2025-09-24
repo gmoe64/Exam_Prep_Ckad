@@ -13,7 +13,8 @@
 - Understand Pods, Namespaces, Contexts
 - Practice:
   - `kubectl run`, `kubectl explain`, `kubectl get`, `delete`, etc.
- 
+
+` 
 # macOS with Homebrew
 brew install minikube
 
@@ -34,6 +35,7 @@ sudo mv ./kind /usr/local/bin/kind
 
 # Windows with Chocolatey
 choco install kind
+`
 
 ### ✅ Day 2: Pod Design
 - Multi-container Pods: initContainers, sidecars

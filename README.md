@@ -35,6 +35,10 @@ choco install kind
 
 ```
 
+### How To Setup Kubernetes Cluster Using Kubeadm
+```
+https://devopscube.com/setup-kubernetes-cluster-kubeadm/
+```
 - Understand Pods, Namespaces, Contexts
 - Practice:
   - `kubectl run`, `kubectl explain`, `kubectl get`, `delete`, etc.

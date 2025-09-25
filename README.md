@@ -10,6 +10,9 @@
 
 ### ✅ Day 1: Core Concepts & Setup
 - Set up `minikube` or `kind`
+- Understand Pods, Namespaces, Contexts
+- Practice:
+  - `kubectl run`, `kubectl explain`, `kubectl get`, `delete`, etc.
 
 ```
 // macOS with Homebrew
@@ -39,9 +42,6 @@ choco install kind
 ```
 https://devopscube.com/setup-kubernetes-cluster-kubeadm/
 ```
-- Understand Pods, Namespaces, Contexts
-- Practice:
-  - `kubectl run`, `kubectl explain`, `kubectl get`, `delete`, etc.
 
 
 ### ✅ Day 2: Pod Design

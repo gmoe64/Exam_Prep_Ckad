@@ -40,7 +40,12 @@ choco install kind
 
 ### How To Setup Kubernetes Cluster Using Kubeadm
 ```
+//option 1
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+
+//option 2
 https://devopscube.com/setup-kubernetes-cluster-kubeadm/
+
 ```
 
 
